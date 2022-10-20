@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Chakradhar Rangi, a physics PhD student in LSU
+- 👋 Hi, I’m Chakradhar Rangi, a physics PhD student at LSU
 - 👀 I’m interested in simulating strongly correlated physical systems on computers
 - 🌱 I’m currently learning Functional Renormalization group(FRG) and other theoretical framework to study correlated systems
 - 💞️ I’m looking to collaborate on any computational studies on any Quantum Many-Body physics phenomena
